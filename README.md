@@ -1,0 +1,1 @@
+from https://github.com/jcmellado/js-aruco/blob/master/samples/getusermedia/getusermedia.html
